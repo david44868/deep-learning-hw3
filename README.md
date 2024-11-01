@@ -1,4 +1,4 @@
-# deep-learning-hw3
+# deep-learning-project
 Linear MNIST Softmax Classifier with Image Optimization
 
 ![image](https://github.com/user-attachments/assets/3dcaf40d-b287-4b50-ac0a-dd1a5f03a738)
